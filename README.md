@@ -44,7 +44,7 @@ The dataset contains telemetry information of devices across multiple factories.
 - Daikibo Berlin is lowest
 
 ### Device Type Analysis
-Displays Unhealthy count by Device Type
+- Displays Unhealthy count by Device Type
 
 ### Insight:
 - LaserWelder devices show maximum failures
