@@ -24,19 +24,20 @@ Temperature → Device temperature readings
 Timestamp → Time of record
 
 ## Dashboard Features
-# Factory-wise Analysis
+## Factory-wise Analysis
 Visualizes SUM of Unhealthy devices by Factory
 Helps detect factories with high failure rates
 
-# Insight:
+## Insight:
 
 Daikibo Factory Seiko has the highest unhealthy count
 Daikibo Shenzhen is second
 Daikibo Berlin is lowest
-# Device Type Analysis
+
+## Device Type Analysis
 Displays Unhealthy count by Device Type
 
-# Insight:
+## Insight:
 
 LaserWelder devices show maximum failures
 Other devices have minimal issues
@@ -53,13 +54,13 @@ Tableau Public
 JSON Data Processing
 
 ## How to Use
-# Option 1: 
+### Option 1: 
 Tableau Workbook
 Download Daikibo_Telemetry.twbx
 Open in Tableau Public
 Explore dashboard
 
-# Option 2: 
+### Option 2: 
 Using JSON File
 Open Tableau Public
 Connect to JSON file
@@ -72,6 +73,6 @@ Working with JSON datasets
 Dashboard design & interactivity
 Identifying failure patterns in IoT systems
 
-🤝 Contributing
+## Contributing
 
 Pull requests are welcome. Feel free to improve visualizations or add insights.
