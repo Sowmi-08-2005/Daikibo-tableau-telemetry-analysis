@@ -7,7 +7,7 @@ Data analysis project using Tableau to visualize factory downtime from telemetry
 - It helps identify unhealthy devices across factories and device types using data visualization.
 
 ## Repository Contents
-1. **Daikibo_Telemetry.twbx** → Tableau packaged workbook
+1. **Project.twb** → Tableau packaged workbook
 
 2. **daikibo-telemetry-data.json** → Raw dataset
 
